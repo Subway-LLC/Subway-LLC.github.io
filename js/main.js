@@ -21,11 +21,6 @@ $(function() {
     };
     navbarFixed();
 
-    //------- Parallax -------//
-  skrollr.init({
-    forceHeight: false
-  });
-
 
 
   //------- mailchimp --------//  
